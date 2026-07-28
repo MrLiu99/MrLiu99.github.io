@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am **Xu Liu** (刘旭), a third-year Ph.D. student at the College of Computer Science, Nankai University, advised by <a href='https://ics.nankai.edu.cn/12509/list.htm'>Prof. Tao Li</a>. I am affiliated with the <a href='https://ics.nankai.edu.cn/'>Nankai Intelligent Computing System Lab</a> and the <a href='https://www.hl-it.cn/'>Haihe Lab of ITAI</a>.
 
-My research interests include **edge computing** and **heterogeneous multi-agent systems**, with a focus on computation offloading,  adaptive model routing and multi-objective optimization. I have published 10 papers in international journals and conferences, with <a href='https://scholar.google.com/citations?hl=en&user=2v307vU77j8C'><span id='total_cit'></span> Google Scholar citations</a> <a href='https://scholar.google.com/citations?hl=en&user=2v307vU77j8C'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include **edge computing** and **heterogeneous multi-agent systems**, with a focus on computation offloading,  adaptive model routing and multi-objective optimization. I have published 10 papers in international journals and conferences, with <a href='https://scholar.google.com/citations?hl=en&user=2v307vU77j8C'><span id='total_cit'></span> Google Scholar citations 147</a> 
 
 Welcome to reach out to me for communication and cooperation!
 
@@ -70,7 +70,6 @@ Welcome to reach out to me for communication and cooperation!
 
 *IEEE Transactions on Mobile Computing (TMC), 2025.* **CCF A**
 
-**Citations:** <strong><span class='show_paper_citations' data='2v307vU77j8C:Y0pCki6q_DkC'></span></strong>
 
 <ul style="list-style: none; padding-left: 0; margin-top: 8px;">
   <li style="margin-bottom: 6px;">▸ AEDS uses affinity-guided edge cluster selection to reduce the scheduling search space and improve decision efficiency.</li>
@@ -90,7 +89,6 @@ Welcome to reach out to me for communication and cooperation!
 
 *Information Sciences, 2023.* **SCI Q1**
 
-**Citations:** <strong><span class='show_paper_citations' data='2v307vU77j8C:d1gkVwhDpl0C'></span></strong>
 
 <ul style="list-style: none; padding-left: 0; margin-top: 8px;">
   <li style="margin-bottom: 6px;">▸ MODRL-COP jointly optimizes task latency and energy consumption in UAV-assisted edge computing.</li>
@@ -110,7 +108,6 @@ Welcome to reach out to me for communication and cooperation!
 
 *IEEE Transactions on Network and Service Management (TNSM), 2025.* **SCI Q2**
 
-**Citations:** <strong><span class='show_paper_citations' data='2v307vU77j8C:Tyk-4Ss8FVUC'></span></strong>
 
 <ul style="list-style: none; padding-left: 0; margin-top: 8px;">
   <li style="margin-bottom: 6px;">▸ EMDRL-ITOP jointly optimizes task latency, energy consumption, and service cost in Industrial IoT environments.</li>
@@ -152,8 +149,17 @@ Welcome to reach out to me for communication and cooperation!
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2025.10* Second Prize in the 13th National College Student Digital Media Technology Works and Creativity Competition.
+- *2025.10* Nankai University Gongneng Scholarship (Second Class).
+- *2024.10* Nankai University Gongneng Scholarship.
+- *2024.08* Second Prize in the 8th China College IC Competition.
+- *2024.08* Third Prize in the 19th China Graduate Electronics Design Contest.
+- *2024.05* Outstanding Master's Graduate of Tiangong University.
+- *2023.11* Second Prize in the Graduate Academic Forum of Tiangong University.
+- *2023.10* National Scholarship.
+- *2023.10* Tiangong University Academic Scholarship (First Class).
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
