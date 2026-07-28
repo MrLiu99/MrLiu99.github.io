@@ -24,6 +24,15 @@ My research interests include **edge computing** and **heterogeneous multi-agent
 Welcome to reach out to me for communication and cooperation!
 
 
+# 📖 Educations
+
+- *2024.09 - 2028.06 (expected)*, College of Computer Science, Nankai University. Ph.D. in Computer Technology. Research fields: heterogeneous multi-agent systems and adaptive model routing.
+
+- *2021.09 - 2024.06*, School of Computer Science and Software Engineering, Tiangong University. M.Eng. in Software Engineering. Research fields: cloud-edge collaboration and task scheduling.
+
+- *2017.09 - 2021.06*, School of Electrical Engineering and Automation, Qilu University of Technology. B.Eng. in Automation.
+
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -148,6 +157,20 @@ Welcome to reach out to me for communication and cooperation!
 - [Temporal Data Scheduling in Internet of Vehicles Using an Improved Decomposition-Based Multi-Objective Evolutionary Algorithm](https://ieeexplore.ieee.org/document/10026658), Ya-Lun Li, Zheng-Yi Chai, Fei Tan, and **Xu Liu**, **IEEE TITS 2023** <span class="pub-tag red">SCI-I</span>
 
 
+# 💡 Interesting Repositories
+
+### [PowerTown: A Generative Multi-Agent Community Electricity Consumption Simulation System](https://github.com/MrLiu99/PowerTown)
+
+*Open-source Project, 2026* &nbsp;|&nbsp; [**Code**](https://github.com/MrLiu99/PowerTown)
+
+**PowerTown** is an LLM-driven simulation system for modeling heterogeneous residential electricity consumption behaviors and evaluating demand-response strategies. It equips resident agents with memory, reflection, and planning capabilities, and connects their daily activities with device-level electricity consumption.
+
+<ul style="list-style: none; padding-left: 0; margin-top: 8px;">
+  <li style="margin-bottom: 6px;">▸ Maps natural-language activities into structured electricity consumption events containing time, device, and power information.</li>
+  <li style="margin-bottom: 6px;">▸ Supports synchronous coupling and asynchronous replay for comparing resident responses under different electricity pricing strategies.</li>
+  <li>▸ Simulates a localized virtual community with heterogeneous resident identities, daily routines, and energy-use preferences.</li>
+</ul>
+
 # 🎖 Honors and Awards
 
 - *2025.10* Second Prize in the 13th National College Student Digital Media Technology Works and Creativity Competition.
@@ -161,13 +184,11 @@ Welcome to reach out to me for communication and cooperation!
 - *2023.10* Tiangong University Academic Scholarship (First Class).
 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+- *2024.03 - 2025.07*, Research Intern, Digital Health Center, Haihe Lab of ITAI. Research on cloud-edge collaborative inference.
+- *2025.08 - Present*, Research Intern, Unmanned Systems Center, Haihe Lab of ITAI. Research on coordination in heterogeneous multi-agent systems.
