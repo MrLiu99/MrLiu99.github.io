@@ -161,8 +161,6 @@ Welcome to reach out to me for communication and cooperation!
 
 ### [PowerTown: A Generative Multi-Agent Community Electricity Consumption Simulation System](https://github.com/MrLiu99/PowerTown)
 
-*Open-source Project, 2026* &nbsp;|&nbsp; [**Code**](https://github.com/MrLiu99/PowerTown)
-
 **PowerTown** is an LLM-driven simulation system for modeling heterogeneous residential electricity consumption behaviors and evaluating demand-response strategies. It equips resident agents with memory, reflection, and planning capabilities, and connects their daily activities with device-level electricity consumption.
 
 <ul style="list-style: none; padding-left: 0; margin-top: 8px;">
