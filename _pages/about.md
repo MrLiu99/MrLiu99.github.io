@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am **Xu Liu** (刘旭), a third-year Ph.D. student at the College of Computer Science, Nankai University, advised by <a href='https://ics.nankai.edu.cn/12509/list.htm'>Prof. Tao Li</a>. I am affiliated with the <a href='https://ics.nankai.edu.cn/'>Nankai Intelligent Computing System Lab</a> and the <a href='https://www.hl-it.cn/'>Haihe Lab of ITAI</a>.
 
-My research interests include **edge computing** and **heterogeneous multi-agent systems**, with a focus on computation offloading,  adaptive model routing and multi-objective optimization. I have published 10 papers in international journals and conferences, with <a href='https://scholar.google.com/citations?hl=en&user=2v307vU77j8C'><span id='total_cit'></span> Google Scholar citations 153</a> 
+My research interests include **edge computing** and **heterogeneous multi-agent systems**, with a focus on computation offloading,  adaptive model routing and multi-objective optimization. I have published 10 papers in international journals and conferences, with <a href='https://scholar.google.com/citations?hl=en&user=2v307vU77j8C'> Google Scholar citations 153</a> 
 
 Welcome to reach out to me for communication and cooperation!
 
