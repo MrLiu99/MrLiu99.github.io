@@ -69,6 +69,18 @@ Welcome to reach out to me for communication and cooperation!
 </style>
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026</div><img src='images/beliefrouter.png' alt="BeliefRouter framework" width="100%"></div></div> <div class='paper-box-text' markdown="1">
+
+BeliefRouter: Belief-Aware Routing for Heterogeneous Multi-Agent Reasoning
+
+Xu Liu, Dayan Wan, Yuzhe Zhang, Longkai Cheng, Zhiwei Xu, Tao Li
+
+Under Review, 2026.
+
+<ul style="list-style: none; padding-left: 0; margin-top: 8px;"> <li style="margin-bottom: 6px;">▸ BeliefRouter models task difficulty as probabilistic beliefs and performs adaptive routing among heterogeneous agents by jointly considering reasoning quality, cost, and latency.</li> <li>▸ BeliefRouter incorporates feedback-driven fast/slow reflection to continuously refine routing beliefs and improve adaptation to dynamic reasoning tasks.</li> </ul>
+
+</div> </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/aeds.png' alt="AEDS framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
