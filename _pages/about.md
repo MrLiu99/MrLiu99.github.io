@@ -73,7 +73,7 @@ Welcome to reach out to me for communication and cooperation!
 
 BeliefRouter: Belief-Aware Routing for Heterogeneous Multi-Agent Reasoning
 
-Xu Liu, Dayan Wan, Yuzhe Zhang, Longkai Cheng, Zhiwei Xu, Tao Li
+**Xu Liu**, Dayan Wan, Yuzhe Zhang, Longkai Cheng, Zhiwei Xu, Tao Li
 
 Under Review, 2026.
 
