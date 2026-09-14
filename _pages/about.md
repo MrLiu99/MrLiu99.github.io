@@ -181,6 +181,20 @@ Under Review, 2026.
   <li>▸ Simulates a localized virtual community with heterogeneous resident identities, daily routines, and energy-use preferences.</li>
 </ul>
 
+### [MiniMind-Cardio: A Cardiology-Domain Small Language Model with SFT and GRPO](https://github.com/MrLiu99/MiniMind-Cardio)
+
+**MiniMind-Cardio** is a cardiology-domain small language model project built upon MiniMind, covering the complete training pipeline from pretraining and supervised fine-tuning to domain adaptation and GRPO with verifiable rewards.
+
+<ul style="list-style: none; padding-left: 0; margin-top: 8px;">
+
+  <li style="margin-bottom: 6px;">▸ Builds a complete pipeline from general pretraining and full-parameter SFT to cardiology-specific domain adaptation.</li>
+
+  <li style="margin-bottom: 6px;">▸ Compares large-scale internet medical dialogues with high-quality medical exam data to analyze the impact of domain data quality.</li>
+
+  <li>▸ Applies GRPO with verifiable rewards on cardiology multiple-choice questions and further improves performance on the CMExam cardiology subset.</li>
+
+</ul>
+
 # 🎖 Honors and Awards
 
 - *2025.10* Second Prize in the 13th National College Student Digital Media Technology Works and Creativity Competition.
