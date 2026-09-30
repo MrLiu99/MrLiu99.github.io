@@ -171,14 +171,31 @@ Under Review, 2026.
 
 # 💡 Interesting Repositories
 
-### [PowerTown: A Generative Multi-Agent Community Electricity Consumption Simulation System](https://github.com/MrLiu99/PowerTown)
+### [EvoAgent-Lite: An Experience-Driven Self-Evolving Tool-Use Agent](https://github.com/MrLiu99/EvoAgent)
 
-**PowerTown** is an LLM-driven simulation system for modeling heterogeneous residential electricity consumption behaviors and evaluating demand-response strategies. It equips resident agents with memory, reflection, and planning capabilities, and connects their daily activities with device-level electricity consumption.
+**EvoAgent-Lite** is a lightweight self-evolving Tool-Use Agent that learns reusable strategies from successful and failed execution trajectories, retrieves relevant experiences for future tasks, and iteratively improves its behavior across multiple evolution rounds.
 
 <ul style="list-style: none; padding-left: 0; margin-top: 8px;">
-  <li style="margin-bottom: 6px;">▸ Maps natural-language activities into structured electricity consumption events containing time, device, and power information.</li>
-  <li style="margin-bottom: 6px;">▸ Supports synchronous coupling and asynchronous replay for comparing resident responses under different electricity pricing strategies.</li>
-  <li>▸ Simulates a localized virtual community with heterogeneous resident identities, daily routines, and energy-use preferences.</li>
+
+  <li style="margin-bottom: 6px;">▸ Builds a complete experience-driven self-evolution pipeline covering ReAct-style tool use, trajectory logging, automatic evaluation, failure attribution, and positive/negative experience extraction.</li>
+
+  <li style="margin-bottom: 6px;">▸ Introduces semantic experience retrieval and experience consolidation, allowing the agent to reuse relevant historical strategies while reducing redundant memory accumulation.</li>
+
+  <li>▸ Designs a multi-round evolution protocol with separate learning and held-out evaluation stages, and analyzes how experience growth, retrieval noise, and knowledge interference affect downstream Tool-Use performance.</li>
+
+</ul>
+
+### [CodeRoute: An Adaptive Multi-Agent Harness for Automated Code Repair](https://github.com/MrLiu99/CodeRoute)
+**CodeRoute** is an adaptive multi-agent code repair system that coordinates specialized agents through runtime feedback, dynamic routing, and real code execution.
+
+<ul style="list-style: none; padding-left: 0; margin-top: 8px;">
+
+  <li style="margin-bottom: 6px;">▸ Builds a multi-agent repair pipeline with Analyzer, Developer, Tester, Debugger, and Reviewer for code analysis, patch generation, testing, failure diagnosis, and review.</li>
+
+  <li style="margin-bottom: 6px;">▸ Designs a hierarchical routing mechanism combining rule-based constraints, lightweight model decisions, and main-model fallback to dynamically select recovery paths.</li>
+
+  <li>▸ Introduces shared-state and revision-aware verification with real pytest execution and held-out evaluation, achieving 13/14 successful repairs on the frozen evaluation suite.</li>
+  
 </ul>
 
 ### [MiniMind-Cardio: A Cardiology-Domain Small Language Model with SFT and GRPO](https://github.com/MrLiu99/MiniMind-Cardio)
@@ -194,6 +211,7 @@ Under Review, 2026.
   <li>▸ Applies GRPO with verifiable rewards on cardiology multiple-choice questions and further improves performance on the CMExam cardiology subset.</li>
 
 </ul>
+
 
 # 🎖 Honors and Awards
 
